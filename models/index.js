@@ -1,0 +1,1 @@
+exports.ChessGame = require("ChessGame");

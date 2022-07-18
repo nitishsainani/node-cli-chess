@@ -1,0 +1,25 @@
+{
+  "name": "cli-chess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitishsainani/node-cli-chess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitishsainani/node-cli-chess/issues"
+  },
+  "homepage": "https://github.com/nitishsainani/node-cli-chess#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "prettier": "^2.7.1",
+    "table": "^6.8.0"
+  }
+}
